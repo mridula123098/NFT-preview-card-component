@@ -44,7 +44,7 @@ body{
     /* padding: 0 2em; */
 }
 .img1::before{
-    content:url(images/icon-view.svg);
+    content:url(icon-view.svg);
     position: absolute;
     inset: 0;opacity: 0;
    /* top: 43%;right: 43%; */
